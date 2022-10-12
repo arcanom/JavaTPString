@@ -8,8 +8,8 @@ import org.example.palindrome.Palindrome;
 public class Main {
     public static void main(String[] args) {
 
-        ComptageMot.ComptageMot();
-//        ComptageOccurence.Comptage();
+//        ComptageMot.ComptageMot();
+        ComptageOccurence.Comptage();
 //        Anagramme.Anagramme();
 //        Palindrome.Palindrome();
     }
